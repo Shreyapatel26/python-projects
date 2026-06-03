@@ -5,7 +5,7 @@ a collection of projects I built while learning python GUI development.
 currently learning tkinter and building projects to improve my programming and problem-solving skills.
 
 
-## [password generator](tkinter/password_generator.py)
+### [password generator](tkinter/password_generator.py)
 a password generator built with tkinter.
 
 **features:**
@@ -20,7 +20,7 @@ a password generator built with tkinter.
 
 --- 
 
-## [calculator](tkinter/calculator.py)
+### [calculator](tkinter/calculator.py)
 a basic calculator built with tkinter.
 
 **features:**
@@ -33,7 +33,7 @@ a basic calculator built with tkinter.
 
 ---
 
-## [to-do list](tkinter/todo_list.py)
+### [to-do list](tkinter/todo_list.py)
 a simple task management application built with tkinter.
 
 **features:**
