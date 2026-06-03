@@ -4,7 +4,6 @@ a collection of projects I built while learning python GUI development.
 
 currently learning tkinter and building projects to improve my programming and problem-solving skills.
 
----
 
 ## calculator
 a basic calculator built with tkinter.
