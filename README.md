@@ -2,8 +2,6 @@
 
 A collection of projects I built while learning Python GUI development.
 
-Currently learning Tkinter and building projects to improve my programming and problem-solving skills.
-
 
 ### [- Password Generator](tkinter/password_generator.py)
 A password generator built with Tkinter.
