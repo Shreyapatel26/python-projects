@@ -21,7 +21,7 @@ frame_container_layout = QVBoxLayout()
 frame_container_layout.setAlignment(Qt.AlignmentFlag.AlignTop)
 
 # WIDGETS
-title = QLabel("🚀🌿 Get Things Done")
+title = QLabel("🚀🌿 Get Things Done!")
 title.setAlignment(Qt.AlignmentFlag.AlignCenter)
 title.setObjectName("title")
 
@@ -40,6 +40,7 @@ scroll.setFrameShape(QFrame.Shape.NoFrame)
 
 container = QWidget()
 container.setObjectName("container")
+
 # FUNCTION
 def add_task():
     text = input.text()
