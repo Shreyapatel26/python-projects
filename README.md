@@ -31,7 +31,7 @@ A password generator built with **`Tkinter`**
 
 --- 
 
-## [📋 Mini Task Card](pyqt/mini_task_card.py)
+## [📋 Mini Task Card](pyqt/mini-task-card.py)
 A compact task management application built with **`PyQt`**
 
 **⚙️ Features:**
