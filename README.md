@@ -31,6 +31,20 @@ A password generator built with **`Tkinter`**
 
 --- 
 
+## [📋 Mini Task Card](pyqt/mini_task_card.py)
+A compact task management application built with **`PyQt`**
+
+**⚙️ Features:**
+- Add tasks with descriptions
+- Mark tasks as completed
+- Current date and day displayed on every card
+- Clean card-based user interface
+- Simple and organized task management
+
+![image_alt](https://github.com/Shreyapatel26/python-projects/blob/a039b08485601edc57b5be37c4074fc5af2f99d5/pyqt/screenshots/mini-task-card.png)
+
+---
+
 ## [🧮 Calculator](tkinter/calculator.py)
 A basic calculator built with **`Tkinter`**
 
